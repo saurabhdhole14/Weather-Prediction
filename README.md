@@ -55,5 +55,6 @@ retry = Retry(
     allowed_methods=frozenset(["GET"])
 )
 
+
 OUTPUT:
 <img width="365" height="181" alt="image" src="https://github.com/user-attachments/assets/3f0483fb-005a-4206-9108-ee23450d5432" />
